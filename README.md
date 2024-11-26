@@ -13,3 +13,9 @@ Explore supervised and unsupervised learning techniques for predictive analysis.
 Use historical weather data to identify trends and predict conditions.  
 Deliver actionable insights to ClimateWins for strategic planning.  
  
+## Running the Analysis
+#### Supervised Learning
+Outputs include:   
+Trained model metrics.   
+Visualizations of temperature trends.   
+Predictions of future weather conditions based on historical data.   
