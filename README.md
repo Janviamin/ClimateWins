@@ -4,9 +4,9 @@ Welcome to the ClimateWins project! This repository contains the code, data, and
 
 This project explores:
 
-How machine learning can predict extreme weather events and climate conditions. 
-Historical analysis of temperature extremes in Europe from 18 weather stations. 
-Ethical considerations and best practices in applying AI to climate studies. 
+How machine learning can predict extreme weather events and climate conditions.  
+Historical analysis of temperature extremes in Europe from 18 weather stations.  
+Ethical considerations and best practices in applying AI to climate studies.  
 ## Key Objectives
 Understand machine learning applications for weather and climate data.  
 Explore supervised and unsupervised learning techniques for predictive analysis.  
