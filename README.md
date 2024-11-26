@@ -19,3 +19,20 @@ Outputs include:
 Trained model metrics.   
 Visualizations of temperature trends.   
 Predictions of future weather conditions based on historical data.   
+
+## Key Findings
+Historical Analysis: Trends of increasing temperature extremes over the past 20 years.   
+Prediction Capabilities: Potential to forecast favorable/dangerous weather conditions for planning.   
+Ethical Concerns: Need for transparency and bias mitigation in training AI for weather predictions.   
+
+## Ethical Considerations   
+We acknowledge the ethical implications of AI in climate studies, including:
+
+Data privacy and accuracy.   
+Transparency in model development.   
+Avoiding biases in predictions.   
+
+## Repository Structure
+Data: Raw historical weather data.   
+Supervised: Supervised learning model and analysis.   
+Results: Plots and visualizations of findings.   
